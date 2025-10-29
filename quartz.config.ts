@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "",
     },
     locale: "pt-BR",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "rener.space",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
