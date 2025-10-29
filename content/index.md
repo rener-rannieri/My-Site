@@ -9,3 +9,5 @@ Olá Mundo!
 ---
 
 # ...
+
+- [[link-test-A]]
