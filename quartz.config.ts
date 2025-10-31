@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "pt-BR",
     baseUrl: "rener.space",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", ".ffs_db"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
