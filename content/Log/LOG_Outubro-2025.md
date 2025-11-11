@@ -50,7 +50,7 @@ O fundamento conceitual dessa solução é a **aprendizagem pública**:
 
 > [!tldr]+ Aprendizagem Pública
 > Tornar o processo de aprender algo visível e compartilhável.  
-> É aprender em voz alta, errar em público e crescer junto — transformando o aprendizado em um ato criativo e humano.
+> É aprender em voz alta, errar em público e crescer junto — transformando o aprendizado em um ato criativo e humano. ^zul4lb
 
 Outros conceitos também ressoam com essa ideia de lidar melhor com prazos e perfeição:
 
@@ -67,14 +67,14 @@ Outros conceitos também ressoam com essa ideia de lidar melhor com prazos e per
 
 > [!seealso]- Pessoas
 > Alguns sites e pessoas também inspiraram essa solução:
-> - [Austin Kleon](https://austinkleon.com)
-> - [Nicole van der Hoeven](https://nicolevanderhoeven.com)
-> - [Rek e Devine](https://100r.ca/site/home.html)
-> - [Maggie Appleton](https://maggieappleton.com)
-> - [Emrah Gonulkirmaz](https://emrah.ca/onair/Emrah+Gonulkirmaz)
-> - [Forte Labs](https://fortelabs.com)
-> - [Nick Milo](https://www.linkingyourthinking.com)
-> - [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes)
+> [Austin Kleon](https://austinkleon.com)
+> [Nicole van der Hoeven](https://nicolevanderhoeven.com)
+> [Rek e Devine](https://100r.ca/site/home.html)
+> [Maggie Appleton](https://maggieappleton.com)
+> [Emrah Gonulkirmaz](https://emrah.ca/onair/Emrah+Gonulkirmaz)
+> [Forte Labs](https://fortelabs.com)
+> [Nick Milo](https://www.linkingyourthinking.com)
+> [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes)
 
 Esses conceitos, juntos — especialmente a aprendizagem pública — me ajudam a:
 

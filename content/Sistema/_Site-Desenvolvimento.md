@@ -86,6 +86,11 @@ Enfim, o resumo do padrão de *commits*:
 | 🐞 Fix       | Correções pontuais de bugs, erros de digitação, links, sintaxe.         | `🐞 Fix: corrige link quebrado na timeline.`                 |
 | 🔧 Refactor  | Melhorias internas no código sem alterar o comportamento.               | `🔧 Refactor(HTML): simplifica estrutura do header.`         |
 
+%% 
+
+- 🧩 0.0.3  | 📝 Content(Implementação): Implementa espaço Olympia e subespaço Atletismo.
+
+%%
 
 --- 
 
@@ -107,7 +112,7 @@ Enfim, o resumo do padrão de *commits*:
 Histórico das versões e melhorias implementadas ao longo do desenvolvimento do site.
 
 - [[SU_VSN_0-0-1|🧩 0.0.1]]
-- 
+- [[SU_VSN_0-0-2|🧩 0.0.2]]
 
 
 --- 
