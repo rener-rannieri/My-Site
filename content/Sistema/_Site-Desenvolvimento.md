@@ -89,7 +89,8 @@ Enfim, o resumo do padrão de *commits*:
 %% 
 
 - 🧩 0.0.3  | 📝 Content(Implementação): Implementa espaço Olympia e subespaço Atletismo.
-
+- 📝 Content(geral): Atualização.
+- 🧩 0.0.4  | ⚙️ System(Conteúdo): altera a licença para CC BY-NC-SA 4.0 e atualiza footer.
 %%
 
 --- 

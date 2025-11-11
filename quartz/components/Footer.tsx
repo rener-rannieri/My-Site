@@ -14,9 +14,11 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         {/* AQUI: Alterei o rodapé; */}
+        {/* {i18n(cfg.locale).components.footer.createdWith}{" "} */}
         <p>
-          🌱 Alpha | 🦾 {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz</a> | © {year} · Todos os direitos reservados.
+          🌱 Alpha | 
+          🦾 <a href="https://quartz.jzhao.xyz/" target="_blank" rel="noopener noreferrer">Quartz</a> | 
+          © 2025 RR · Alguns Direitos Reservados | <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
