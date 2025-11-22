@@ -30,26 +30,27 @@ O que estou desenvolvendo agora (delimitado por prazos):
 > - 🔥 [[e5d5c35af4|Pesquisando]] sobre a relação comum entre tema e idade para animação | 📅 01/12;
 
 > 🎮 **Jogos:**
-> - 🔥 Decidindo o genero de foco em [[e123fe74d7|aprendizagem de jogos]]  | 📅 23/11;
-> - 🔥 Decidindo se crio um unico [[5c69a0bd2b|perfil do estúdio]] para publicar os projetos | 📅 01/12;
+> - 🔥 Definindo o [[e4d535a489|próximo projeto]] que vai ser desenvolvido ainda em 2025 | 📅 24/11;
+> - 🔥 Criando [[5c69a0bd2b|perfil]] único e coletivo para publicar os diferentes tipos de projetos | 📅 01/12;
 
 > 💎 **Prisma:**
 > - 🏄🏽‍♂️ [[Prisma_Surf_1-Musica|Surfando]] em criar música;
-> - 🔥Criando faixa [[Album - Realms Unseen|ambient/drone]] para [Impressions Composing Jam](https://itch.io/jam/impressions-composing-jam-ost-3);
-> - 🔥Criando faixa [[Biome Music Jam|atmosferica]] para [Biome Music Jam #2](https://itch.io/jam/biome-music-jam-2);
+> - 🔥Criando [[fcb808f9b8|album]] com o aplicativo/jogo [ODDADA](https://store.steampowered.com/app/1627870/ODDADA/) | 📅 30/11;
 
 > 🚧 **Desenvolvimento do Site**
 > - 🔥 [[SU_VSN_0-0-5|🧩 0.0.5]] (OlympyA → Trihas)
-> - 🔥 [[SU_VSN_0-0-6|🧩 0.0.6]] (Now Page)
+> - 🔥 [[SU_VSN_0-0-X|🧩 0.0.X]] (Portifolio Page)
 
-%%
+…
+…
+…
 
-*Tornar melhor identificável. Talvez automático, com filtros por Bases;*
-
-> [!success]+ DONE
-> - 🔥 Revisando notas do evento organizado por [Estúdio Escola de Animação](https://estudioescola.com.br);  | ❌ 12/11 → ✅ 15/11;
-
-%%
+> ✅ **Finalizado (Últimos 10)**
+> - **✅ 15/11 →**  Revisando notas do evento organizado por [Estúdio Escola de Animação](https://estudioescola.com.br);
+> - **✅ 19/11 →**  [[SU_VSN_0-0-6|🧩 0.0.6]] (Now Page)
+> - **✅ 21/11 →**  Definido gênero de foco em aprendizagem/desenvolvimento de jogos [[Now - Genero de Foco + Ferramentas|(Puzzle e Adventure)]]  | 📅 23/11;
+> - **✅ 22/11 →** Criado faixa [[PRJ-Prisma-Musica-Realms-Unseen|ambient/drone]] para [Impressions Composing Jam](https://itch.io/jam/impressions-composing-jam-ost-3) | 📅 23/11;
+> - …
 
 
 ---
@@ -76,6 +77,7 @@ Em um nível mais amplo, essas são as minhas prioridades:
 - 🌟 Criar valores familiares que não afetem outros humanos;
 - 🌟 Criar segurança financeira para mim e minha família;
 - 🌟 Manter o equilíbrio entre deveres, tempo livre e descanso;
+- 🌟 Manter a meditação como caminho;
 - 🌟 Ajustar a proporção entre *input/ouput* e superar a relação com o perfeccionismo;
 
 

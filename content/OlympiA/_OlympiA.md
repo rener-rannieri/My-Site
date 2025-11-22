@@ -52,4 +52,4 @@ Cada corrida segue um arco completo: começa na **preparação e estudo** (teori
 %%
 
 - [[ATL_1500m-Res-Soft-Music-Prod-1|🏃‍♂️ Pesquisa - Softwares - Produção Musical - 1]]
-
+- [[ATL_1500m-Res-Soft-Music-Prod-2|🏃‍♂️ Pesquisa - Softwares - Produção Musical - 2]]
