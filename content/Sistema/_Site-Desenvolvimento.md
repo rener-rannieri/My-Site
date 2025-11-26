@@ -174,7 +174,6 @@ Este é (+ ou -) o planejamento das versões de desenvolvimento do site — um r
 	- Call to Action
 - Espaços / Sistemas
 	- Notas Ilustradas
-	- Liçensas
 	- Newsletter e RSS
 	- Lab-A
 		- Manifesto / Diretrizes

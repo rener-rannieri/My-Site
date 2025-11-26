@@ -7,7 +7,7 @@ aliases:
 ---
 
 > [!info]- Ultima Atualização
-> Atualizado em 19 de novembro de 2025.
+> Atualizado em 25 de novembro de 2025.
 
 ---
 
@@ -26,12 +26,12 @@ O que estou desenvolvendo agora (delimitado por prazos):
 
 > 🎞 **Animação:**
 > - 🔥 Fazendo [[93c156d511|curso]] de roteiro e storytelling na [Udemy](https://www.udemy.com/course/historiaeroteiro)  | 📅 14/12;
-> - 🔥 Criando [[c15deb9e2f|Roteiro Spec]] da série animada *Star Trek - Lower Decks* | 📅 20/12;
-> - 🔥 [[e5d5c35af4|Pesquisando]] sobre a relação comum entre tema e idade para animação | 📅 01/12;
+> - 🔥 Criando Roteiro Spec da série animada *Star Trek - Lower Decks* | 📅 20/12; %% [[c15deb9e2f]] %%
+> - 🔥 Pesquisando sobre a relação comum entre tema e idade para animação | 📅 01/12; %% [[e5d5c35af4]] %%
 
 > 🎮 **Jogos:**
-> - 🔥 Definindo o [[e4d535a489|próximo projeto]] que vai ser desenvolvido ainda em 2025 | 📅 24/11;
-> - 🔥 Criando [[5c69a0bd2b|perfil]] único e coletivo para publicar os diferentes tipos de projetos | 📅 01/12;
+> - 🔥 Desenvolvendo [[PRJ-Jogos-Roberto-O-Robo|jogo narrativo]] com Twine | 📅 7/12; %% [[d3fe2442db]] %%
+> - 🔥 Criando perfil centralizado e coletivo para publicar os diferentes tipos de projetos | 📅 01/12; %% [[b4e9f56621]] %%
 
 > 💎 **Prisma:**
 > - 🏄🏽‍♂️ [[Prisma_Surf_1-Musica|Surfando]] em criar música;
@@ -39,6 +39,7 @@ O que estou desenvolvendo agora (delimitado por prazos):
 
 > 🚧 **Desenvolvimento do Site**
 > - 🔥 [[SU_VSN_0-0-5|🧩 0.0.5]] (OlympyA → Trihas)
+> - 🔥 [[SU_VSN_0-0-7|🧩 0.0.7]] (Jardim Digital)
 > - 🔥 [[SU_VSN_0-0-X|🧩 0.0.X]] (Portifolio Page)
 
 …
@@ -50,6 +51,7 @@ O que estou desenvolvendo agora (delimitado por prazos):
 > - **✅ 19/11 →**  [[SU_VSN_0-0-6|🧩 0.0.6]] (Now Page)
 > - **✅ 21/11 →**  Definido gênero de foco em aprendizagem/desenvolvimento de jogos [[Now - Genero de Foco + Ferramentas|(Puzzle e Adventure)]]  | 📅 23/11;
 > - **✅ 22/11 →** Criado faixa [[PRJ-Prisma-Musica-Realms-Unseen|ambient/drone]] para [Impressions Composing Jam](https://itch.io/jam/impressions-composing-jam-ost-3) | 📅 23/11;
+> - **✅ 24/11 →** Definido os 2 jogos a ser desenvolvido ainda em 2025;
 > - …
 
 
@@ -92,12 +94,9 @@ O que ando fazendo no tempo livre?
 - **🎶 Ouvindo**
 	- …
 - **🕹 Jogando**
-	- Grid 1
+	- Late Shift
 	- Need For Speed: The Run
-	- PES 2017
-	- Golazo! 2
-	- Gladiabots
-	- Dead Maze
+	- River Tails - Stronger Together
 - **📖 Lendo**
 	- Gêneros Cinematográficos - Luis Nogueira
 	- Making Music - Dennis DeSantis
@@ -110,14 +109,14 @@ O que ando fazendo no tempo livre?
 O que venho pensando?
 
 - **O desafio de aprender desenvolvimento de jogos.** 
-	- *Criar jogos é complexo, e continuo me perguntando omo tornar essa jornada intencional, produtiva e agradável.*
+	- *Criar jogos é complexo, e continuo me perguntando como tornar essa jornada intencional, produtiva e agradável.*
 - **É possível criar música mesmo sem saber teoria musical?**
 	- *Há gêneros musicais, abordagens e aplicativos que facilitam a produção musical.*
-	- *Eu não tenho a pretensão de ser um gênio da música ou fazer isso profissionalmente, quero somente criar para meus projetos audiovisuais — e para isso, mais vale colocar a mão na massa e tentar algo —, e assim tornar o processo divertido.*
+	- *Eu não tenho a pretensão de ser um gênio da música ou fazer isso profissionalmente, quero somente criar música para meus projetos audiovisuais — e para isso, mais vale colocar a mão na massa e tentar algo —, e assim tornar o processo divertido.*
 - **Humanos e histórias.** 
 	- *Estou aprendendo que histórias é sobre transferir experiências humanas para outros humanos. Parece ter algo de mágico nas narrativas, que comunica melhor e a torna mais memorável, quando o conhecimento é constituído com emoções.*
 - **Internet, foco, entretenimento e descanso.** 
-	- *Ainda penso muito sobre a posição da internet em minha vida. Limitar os estímulos vem se provando alta sabedoria.*
+	- *Ainda penso muito sobre a posição da internet em minha vida. Limitar os estímulos digitais vem se provando alta sabedoria.*
 	- *Em resumo, me vejo cada vez mais criando momentos “off-grid” — longe de toda conexão digital, para estar com as pessoas, se divertir e descansar; por efeito, me sinto mais satisfeito e equilibrado.*
 
 
